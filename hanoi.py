@@ -1,9 +1,9 @@
-#!/usr/bin/env python2
+﻿#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
 import time
-
+#comentario
 
 __author__ = "Ricardo Rodríguez Schmidt"
 __license__ = "MIT"
